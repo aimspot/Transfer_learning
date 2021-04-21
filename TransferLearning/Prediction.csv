@@ -1,0 +1,188 @@
+truth,predict
+Cotton__Verticillium wilt,Cotton__Verticillium wilt
+Grape__Healthy,Grape__Healthy
+Wheat__Brown rust,Wheat__Brown rust
+Cotton__Verticillium wilt,Cotton__Verticillium wilt
+Corn__Northern leaf blight,Corn__Northern leaf blight
+Cucumbers__Powdery mildew,Cucumbers__Powdery mildew
+Cucumbers__Anthracnose,Cucumbers__Anthracnose
+Grape__Black rot,Grape__Black rot
+Grape__Powdery mildew,Grape__Powdery mildew
+Corn__Northern leaf blight,Corn__Northern leaf blight
+Cotton__Powdery mildew,Cotton__Powdery mildew
+Cotton__Nutrient deficiency,Cotton__Nutrient deficiency
+Cucumbers__Anthracnose,Cucumbers__Anthracnose
+Cucumbers__Downy mildew,Cucumbers__Downy mildew
+Grape__Healthy,Grape__Healthy
+Wheat__Black chaff,Wheat__Black chaff
+Corn__Northern leaf blight,Corn__Northern leaf blight
+Wheat__Yellow rust,Wheat__Yellow rust
+Corn__Healthy,Corn__Healthy
+Grape__Chlorosis,Grape__Chlorosis
+Cotton__Healthy,Cotton__Healthy
+Grape__Esca,Grape__Esca
+Corn__Northern leaf blight,Corn__Northern leaf blight
+Cotton__Verticillium wilt,Cotton__Verticillium wilt
+Wheat__Healthy,Wheat__Healthy
+Grape__Healthy,Grape__Healthy
+Grape__Healthy,Grape__Healthy
+Cotton__Verticillium wilt,Cotton__Verticillium wilt
+Corn__Eyespot,Corn__Eyespot
+Wheat__Black chaff,Wheat__Black chaff
+Grape__Esca,Grape__Esca
+Corn__Downy mildew,Corn__Downy mildew
+Grape__Esca,Grape__Esca
+Grape__Healthy,Grape__Healthy
+Cotton__Nutrient deficiency,Cotton__Nutrient deficiency
+Corn__Downy mildew,Corn__Downy mildew
+Corn__Northern leaf blight,Corn__Northern leaf blight
+Cucumbers__Downy mildew,Cucumbers__Downy mildew
+Grape__Chlorosis,Grape__Chlorosis
+Cotton__Powdery mildew,Cotton__Powdery mildew
+Cucumbers__Downy mildew,Cucumbers__Downy mildew
+Cucumbers__Downy mildew,Cucumbers__Downy mildew
+Grape__Healthy,Grape__Healthy
+Grape__Esca,Grape__Esca
+Corn__Eyespot,Corn__Eyespot
+Cotton__Healthy,Cotton__Healthy
+Corn__Healthy,Corn__Healthy
+Grape__Healthy,Grape__Healthy
+Grape__Healthy,Grape__Healthy
+Grape__Healthy,Grape__Healthy
+Cotton__Healthy,Cotton__Healthy
+Cotton__Powdery mildew,Cotton__Powdery mildew
+Grape__Esca,Grape__Esca
+Grape__Powdery mildew,Grape__Powdery mildew
+Grape__Chlorosis,Grape__Chlorosis
+Grape__Healthy,Grape__Healthy
+Cucumbers__Powdery mildew,Cucumbers__Powdery mildew
+Wheat__Brown rust,Wheat__Brown rust
+Cucumbers__Powdery mildew,Cucumbers__Powdery mildew
+Corn__Southern rust,Corn__Southern rust
+Grape__Black rot,Grape__Black rot
+Cotton__Powdery mildew,Cotton__Powdery mildew
+Cucumbers__Anthracnose,Cucumbers__Anthracnose
+Wheat__Powdery mildew,Wheat__Powdery mildew
+Grape__Healthy,Grape__Healthy
+Wheat__Yellow rust,Wheat__Yellow rust
+Corn__Eyespot,Corn__Eyespot
+Grape__Chlorosis,Grape__Chlorosis
+Corn__Northern leaf blight,Corn__Northern leaf blight
+Wheat__Powdery mildew,Wheat__Powdery mildew
+Cotton__Alternaria leaf blight,Cotton__Alternaria leaf blight
+Cucumbers__Downy mildew,Cucumbers__Downy mildew
+Cucumbers__Downy mildew,Cucumbers__Downy mildew
+Corn__Downy mildew,Corn__Downy mildew
+Cotton__Nutrient deficiency,Cotton__Nutrient deficiency
+Grape__Healthy,Grape__Healthy
+Wheat__Healthy,Wheat__Healthy
+Cucumbers__Downy mildew,Cucumbers__Downy mildew
+Grape__Healthy,Grape__Healthy
+Wheat__Black chaff,Wheat__Black chaff
+Cucumbers__Nutrient deficiency,Cucumbers__Nutrient deficiency
+Cotton__Healthy,Cotton__Healthy
+Grape__Chlorosis,Grape__Chlorosis
+Corn__Northern leaf blight,Corn__Northern leaf blight
+Corn__Eyespot,Corn__Eyespot
+Corn__Healthy,Corn__Healthy
+Corn__Healthy,Corn__Healthy
+Corn__Eyespot,Corn__Eyespot
+Wheat__Healthy,Wheat__Healthy
+Grape__Healthy,Cotton__Healthy
+Cotton__Alternaria leaf blight,Cotton__Alternaria leaf blight
+Wheat__Powdery mildew,Wheat__Powdery mildew
+Grape__Esca,Grape__Esca
+Cotton__Alternaria leaf blight,Cotton__Alternaria leaf blight
+Cucumbers__Downy mildew,Cucumbers__Downy mildew
+Grape__Healthy,Grape__Healthy
+Cotton__Healthy,Cotton__Healthy
+Corn__Downy mildew,Corn__Downy mildew
+Grape__Chlorosis,Grape__Chlorosis
+Grape__Healthy,Grape__Healthy
+Cotton__Healthy,Cotton__Healthy
+Cucumbers__Healthy,Cucumbers__Healthy
+Cotton__Alternaria leaf blight,Cotton__Verticillium wilt
+Wheat__Yellow rust,Wheat__Yellow rust
+Grape__Powdery mildew,Grape__Powdery mildew
+Wheat__Powdery mildew,Wheat__Powdery mildew
+Cotton__Verticillium wilt,Cotton__Verticillium wilt
+Wheat__Powdery mildew,Wheat__Powdery mildew
+Wheat__Healthy,Wheat__Healthy
+Cotton__Nutrient deficiency,Cotton__Verticillium wilt
+Wheat__Yellow rust,Wheat__Yellow rust
+Corn__Southern rust,Corn__Eyespot
+Cucumbers__Powdery mildew,Cucumbers__Powdery mildew
+Cotton__Verticillium wilt,Cotton__Verticillium wilt
+Grape__Chlorosis,Grape__Chlorosis
+Wheat__Healthy,Wheat__Healthy
+Cucumbers__Powdery mildew,Cucumbers__Powdery mildew
+Wheat__Brown rust,Wheat__Brown rust
+Grape__Esca,Grape__Esca
+Grape__Esca,Grape__Esca
+Cotton__Powdery mildew,Cotton__Powdery mildew
+Cucumbers__Nutrient deficiency,Cucumbers__Nutrient deficiency
+Wheat__Healthy,Wheat__Healthy
+Grape__Black rot,Grape__Black rot
+Cucumbers__Downy mildew,Cucumbers__Downy mildew
+Cucumbers__Healthy,Cucumbers__Healthy
+Corn__Southern rust,Corn__Southern rust
+Corn__Healthy,Corn__Healthy
+Cotton__Powdery mildew,Cotton__Powdery mildew
+Corn__Healthy,Corn__Healthy
+Grape__Healthy,Grape__Healthy
+Grape__Powdery mildew,Grape__Powdery mildew
+Wheat__Yellow rust,Wheat__Yellow rust
+Grape__Healthy,Grape__Healthy
+Cotton__Nutrient deficiency,Cotton__Nutrient deficiency
+Corn__Healthy,Corn__Healthy
+Grape__Black rot,Grape__Black rot
+Cucumbers__Nutrient deficiency,Cucumbers__Nutrient deficiency
+Corn__Eyespot,Corn__Eyespot
+Wheat__Brown rust,Wheat__Brown rust
+Corn__Eyespot,Corn__Eyespot
+Corn__Downy mildew,Corn__Downy mildew
+Cotton__Healthy,Cotton__Healthy
+Wheat__Yellow rust,Wheat__Yellow rust
+Grape__Esca,Grape__Esca
+Wheat__Yellow rust,Wheat__Yellow rust
+Cucumbers__Anthracnose,Cucumbers__Anthracnose
+Grape__Healthy,Grape__Healthy
+Grape__Black rot,Grape__Black rot
+Cotton__Nutrient deficiency,Cotton__Healthy
+Corn__Southern rust,Corn__Southern rust
+Grape__Healthy,Grape__Powdery mildew
+Grape__Healthy,Grape__Healthy
+Wheat__Healthy,Wheat__Healthy
+Grape__Healthy,Grape__Healthy
+Wheat__Brown rust,Wheat__Brown rust
+Wheat__Brown rust,Wheat__Brown rust
+Cucumbers__Anthracnose,Cucumbers__Anthracnose
+Corn__Downy mildew,Corn__Downy mildew
+Corn__Eyespot,Corn__Eyespot
+Cucumbers__Healthy,Cucumbers__Healthy
+Cucumbers__Nutrient deficiency,Cucumbers__Nutrient deficiency
+Cucumbers__Downy mildew,Cucumbers__Downy mildew
+Corn__Healthy,Corn__Healthy
+Cucumbers__Downy mildew,Cucumbers__Downy mildew
+Cotton__Nutrient deficiency,Cotton__Nutrient deficiency
+Grape__Healthy,Grape__Healthy
+Grape__Chlorosis,Grape__Chlorosis
+Grape__Esca,Grape__Esca
+Grape__Healthy,Grape__Healthy
+Grape__Healthy,Grape__Healthy
+Grape__Healthy,Grape__Healthy
+Wheat__Black chaff,Wheat__Black chaff
+Wheat__Yellow rust,Wheat__Yellow rust
+Corn__Northern leaf blight,Corn__Northern leaf blight
+Cucumbers__Healthy,Cucumbers__Healthy
+Grape__Black rot,Grape__Black rot
+Corn__Southern rust,Corn__Southern rust
+Grape__Healthy,Grape__Healthy
+Corn__Downy mildew,Wheat__Yellow rust
+Cotton__Powdery mildew,Cotton__Powdery mildew
+Corn__Eyespot,Corn__Eyespot
+Grape__Healthy,Grape__Healthy
+Cucumbers__Downy mildew,Cucumbers__Anthracnose
+Cucumbers__Nutrient deficiency,Cucumbers__Nutrient deficiency
+Cotton__Verticillium wilt,Cotton__Verticillium wilt
+Corn__Northern leaf blight,Corn__Northern leaf blight
